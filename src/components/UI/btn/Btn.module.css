@@ -1,0 +1,34 @@
+.btn {
+    border: none;
+    background: #222;
+    color: #fff;
+    width: 58px;
+    font-size: 24px;
+    padding: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all .5s ease;
+    &:hover {
+      background: #303030;
+      transition: all .5s ease;
+    }
+}
+
+.btnTotal {
+  width: auto;
+  padding: 5px 13px;
+  position: absolute;
+  right: 4px;
+  border: none;
+  background: #222;
+  color: #fff;
+  font-size: 24px;
+  border-radius: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all .5s ease;
+  &:hover {
+      background: #303030;
+      transition: all .5s ease;
+  }
+}

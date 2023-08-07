@@ -1,0 +1,15 @@
+.paragraph {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 30px;
+    color: #fff;
+    width: 100%;
+    padding: 6px 56px 6px 20px;
+    text-align: left;
+    font-size: 22px;
+    font-weight: 700;
+    background: #585858;
+    border: 1px solid #222;
+    border-radius: 22px;
+}
